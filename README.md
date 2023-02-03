@@ -19,4 +19,4 @@
 
 ----
 
-#### * Template tags are default html tags supported by modern browsers which allow us to specify some html code which is not loaded immediately which is not visible immediately which is not rendered immediately so to say but instead which can be reached via JavaScript and therefore also via TypeScript to ten render it when we wanna render it to control it with JavaScript and TypeScript
+#### * Template tags are default html tags supported by modern browsers which allow us to specify some html code which is not loaded immediately which is not visible immediately which is not rendered immediately but instead which can be reached via JavaScript (therefore also TypeScript) to control when we wanna render it.
